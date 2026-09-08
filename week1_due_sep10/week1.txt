@@ -1,0 +1,5 @@
+## Creative Coding Repository
+
+https://github.com/anuraghazra/CanvasFun
+
+This URL shows projects like games, simulations, and animations made with HTML5 Canvas and JavaScript. It shows how code can be used as a creative tool for making visual and interactive experiences.
